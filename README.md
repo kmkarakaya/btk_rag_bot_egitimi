@@ -82,15 +82,27 @@ Bu eğitim, katılımcıların RAG (Retrieval-Augmented Generation) teknolojisin
 ```
 btk_rag_bot_egitimi/
 ├── 1.Giriş Bölümü/
+│   ├── Egitim_Bilgi_Formu_v3.docx
+│   └── Murat_Karakaya_Eğitmen Bilgi Formu.docx
 ├── 2.Kurulum ve Çalışma Ortamı/
 │   └── 2_1_Google_Colab_Çalışma_Ortamı.ipynb
 ├── 3.Büyük Dil Modellerine Erişim/
+│   ├── 3.1_Büyük Dil Modellerine Erişim Yöntemleri.pptx
+│   └── 3_3_3_11_Gemini_Yazılım_Geliştirme_Kiti_(SDK).ipynb
 ├── 4.Sistem Yönlendirmesi ile Sohbet Botu Geliştirme/
+│   └── sil.ipynb
 ├── 5.Erişim Destekli Metin Üretimi (RAG) ile Sohbet Botu Geliştirme/
+│   └── sil.ipynb
 ├── 6.Erişim Destekli Metin Üretiminde (RAG) Yapılabilecek İyileştirmeler/
+│   └── sil.ipynb
 ├── 7.Sohbet Botu İçin Arayüz Geliştirme/
+│   └── sil.ipynb
 ├── 8.Eğitim Sonu-Kapanış/
-└── Index_v3_1.xlsx
+│   └── sil.ipynb
+├── Bilgilendirme_Sunumu.pptx
+├── Index_v3_1.xlsx
+├── LICENSE
+└── README.md
 ```
 
 ## 🚀 Başlangıç
