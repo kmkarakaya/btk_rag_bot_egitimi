@@ -12,9 +12,9 @@
 - **Eğitmen:** Murat Karakaya
 - **Ders Adı:** Erişim Destekli Üretim (RAG) Tabanlı Sohbet Botları
 - **Ders Kodu:** 514
-- **Toplam Süre:** 6 saat 2 dakika 42 saniye
-- **Toplam Bölüm Sayısı:** 9
-- **Toplam Ders Sayısı:** 32
+ - **Toplam Süre:** 9 saat 22 dakika
+ - **Toplam Bölüm Sayısı:** 9
+ - **Toplam Ders Sayısı:** 55
 
 ## 🎯 Eğitim Hedefleri
 
@@ -27,48 +27,69 @@ Bu eğitim, katılımcıların RAG (Retrieval-Augmented Generation) teknolojisin
 
 ## 📚 Eğitim İçeriği
 
-### 1. Giriş Bölümü
-- **1.1** Tanıtım (7:02)
-- **1.2** Bilgilendirme
-
-### 2. Kurulum ve Çalışma Ortamı
-- **2.1** Google Colab Çalışma Ortamı (9:26)
-- **2.2** Google Colab Menü Seçenekleri (13:24)
-- **2.3** Google Colab Örnek Kullanım (5:58)
+   - 2.2 Google Colab Menü Seçenekleri (00:13:24)
+   - 2.3 Google Colab Örnek Kullanım (00:05:58)
 
 ### 3. Büyük Dil Modellerine Erişim
-- **3.1** Büyük Dil Modellerine Erişim Yöntemleri (12:01)
-- **3.2** Gemini API Anahtarı Alımı ve Kullanımı (7:49)
-- **3.3** Uygulama Programlama Arayüzü (API) Kullanımı (15:34)
-- **3.4** Kullanım Kotaları ve Maliyet Yönetimi (7:34)
-- **3.5** Performans İzleme ve Hata Ayıklama (16:23)
+   - 3.1 Büyük Dil Modellerine Erişim Yöntemleri (00:12:01)
+   - 3.6 Gemini Yazılım Geliştirme Kiti (SDK): Model Parametreleri (00:12:29)
+   - 3.7 Gemini Yazılım Geliştirme Kiti (SDK): Güvenlik Filtreleri (00:08:35)
+   - 3.8 Gemini Yazılım Geliştirme Kiti (SDK): Sohbet API (00:07:26)
+   - 3.9 Gemini Yazılım Geliştirme Kiti (SDK): Yapısal Çıktı (00:05:25)
+   - 3.10 Gemini Yazılım Geliştirme Kiti (SDK): İçerik Akışı (00:04:41)
+   - 3.11 Gemini Yazılım Geliştirme Kiti (SDK): Kullanım Sınırları (00:16:20)
+   - 3.12 Gemini Yazılım Geliştirme Kiti (SDK): Metin Gömüleri (00:09:06)
 
 ### 4. Sistem Yönlendirmesi ile Sohbet Botu Geliştirme
-- **4.1** Sistem Yönlendirmesi ile Sohbet Botu Geliştirme (20:33)
-- **4.2** Uygulama 1 (24:04)
-- **4.3** Uygulama 2 (24:37)
-- **4.4** Avantaj ve Dezavantajları (15:12)
+   - 4.1 Giriş ve Genel Bakış (00:09:41)
+   - 4.2 Ana Bileşenler ve İş Akışı (00:13:36)
+   - 4.3 Sistem ve Kullanıcı Yönlendirmeleri (00:11:56)
+   - 4.4 Bağlam Penceresi (00:13:39)
+   - 4.5 Temel Yönlendirme Teknikleri (00:07:14)
+   - 4.6 Bağlam İçi Öğrenme (00:10:16)
+   - 4.7 Halüsinasyon Azaltma Teknikleri (00:08:12)
+   - 4.8 Kullanım Alanları ve Sınırlamaları (00:14:43)
+   - 4.9 Erişim Destekli Üretim Tabanlı Sohbet Botlarına Geçiş (00:09:30)
 
-### 5. Erişim Destekli Metin Üretimi (RAG) ile Sohbet Botu Geliştirme
-- **5.1** Erişim Destekli Metin Üretimi (RAG) (20:33)
-- **5.2** Ana Bileşenler (15:09)
-- **5.3** Uygulama 1 (24:51)
-- **5.4** Uygulama 2 (24:51)
-- **5.5** Avantaj ve Dezavantajları (15:12)
+### 5. Erişim Destekli Metin Üretimi (RAG) Nasıl Çalışır?
+   - 5.1 Giriş ve Genel Bakış (00:07:05)
+   - 5.2 Temel Bileşenleri ve İş Akışı: Veriye Erişim (00:04:50)
+   - 5.3 Temel Bileşenleri ve İş Akışı: Metin Üretimi (00:05:42)
+   - 5.4 Faydaları ve Kısıtları (00:10:31)
 
-### 6. Erişim Destekli Metin Üretiminde (RAG) Yapılabilecek İyileştirmeler
-- **6.1** Metinden Vektöre Dönüştürmede Yapılabilecek İyileştirmeler (16:16)
-- **6.2** Yönlendirme Üzerinde Yapılabilecek İyileştirmeler (15:12)
-- **6.3** Vektör Veritabanından Gelen Metinler Üzerinde Yapılabilecek İyileştirmeler (15:12)
+### 6. Vektör Veritabanını Oluşturmak ve Metin Erişimi
+   - 6.1 Giriş ve Genel Bakış (00:05:22)
+   - 6.2 Bilgi Tabanı Oluşturma (00:09:26)
+   - 6.3 Metin Çıkarımı (00:08:31)
+   - 6.4 Metin İşleme (00:10:31)
+   - 6.5 Karakter Bazlı Metin Parçalama (00:15:50)
+   - 6.6 Token Bazlı Metin Parçalama (00:19:07)
+   - 6.7 Metni Vektöre Çevirme (00:22:07)
+   - 6.8 Gömme Modelleri (00:11:52)
+   - 6.9 Vektör Veritabanına Giriş (00:08:54)
+   - 6.10 Vektör Veritabanını Hazırlama (00:09:31)
+   - 6.11 Metin Parçalarını Vektör Veritabanında Saklama (00:04:38)
+   - 6.12 Vektör Veritabanından Metin Parçalarına Erişim (00:08:33)
+   - 6.13 Vektör Veritabanını Sorgulama (00:09:49)
+   - 6.14 Tüm İş Akışının Kodlanması (00:11:47)
 
-### 7. Sohbet Botu İçin Arayüz Geliştirme
-- **7.1** Yapay Zekada Kullanılan Hızlı Arayüz Geliştirme Kütüphaneleri (11:55)
-- **7.2** Gradio ile Arayüz Geliştirme (24:51)
+### 7. Bağlam ve Cevap Oluşturma
+   - 7.1 Giriş ve Genel Bakış (00:04:04)
+   - 7.2 Vektör Veritabanını Sorgulama (00:10:32)
+   - 7.3 Sistem Yönlendirmesini Hazırlama (00:07:50)
+   - 7.4 Bağlam Oluşturma (00:08:31)
+   - 7.5 Cevap Oluşturma (00:10:08)
 
-### 8. Eğitim Sonu - Kapanış
-- **8.1** RAG Tabanlı Sohbet Botları Atölyesinde Ne Öğrendik? (2:45)
-- **8.2** RAG Tabanlı Sohbet Botları Atölyesinden Sonra (2:48)
-- **8.3** Eğitim Sonu (0:32)
+### 8. Sohbet Botunun Geliştirilmesi
+   - 8.1 Giriş ve Genel Bakış (00:06:17)
+   - 8.2 Sohbet Döngüsünün Hazırlanması (00:14:25)
+   - 8.3 Sohbet Arayüzünün Geliştirilmesi (00:19:10)
+   - 8.4 Sınırlılıkları ve İyileştirme Yönleri (00:14:27)
+   - 8.5 Sorgu İyileştirme (00:19:50)
+   - 8.6 İleri Seviye Gelişim Rehberi (00:13:23)
+
+### 9. Eğitim Sonu-Kapanış
+   - 9.1 Erişim Destekli Üretim (RAG) Tabanlı Sohbet Botları Eğitiminde Ne Öğrendik? (00:07:16)
 
 ## 🛠️ Teknolojiler ve Araçlar
 
@@ -82,30 +103,32 @@ Bu eğitim, katılımcıların RAG (Retrieval-Augmented Generation) teknolojisin
 
 ## 📁 Proje Yapısı
 
+
 ```
 btk_rag_bot_egitimi/
 ├── 1.Giriş Bölümü/
 │   ├── Egitim_Bilgi_Formu_v3.docx
 │   └── Murat_Karakaya_Eğitmen Bilgi Formu.docx
 ├── 2.Kurulum ve Çalışma Ortamı/
-│   └── 2_1_Google_Colab_Çalışma_Ortamı.ipynb
-├── 3.Büyük Dil Modellerine Erişim/
-│   ├── 3.1_Büyük Dil Modellerine Erişim Yöntemleri.pptx
-│   └── 3_3_3_11_Gemini_Yazılım_Geliştirme_Kiti_(SDK).ipynb
-├── 4.Sistem Yönlendirmesi ile Sohbet Botu Geliştirme/
-│   └── [Notebook dosyaları geliştirilme aşamasında]
-├── 5.Erişim Destekli Metin Üretimi (RAG) ile Sohbet Botu Geliştirme/
-│   └── [Notebook dosyaları geliştirilme aşamasında]
-├── 6.Erişim Destekli Metin Üretiminde (RAG) Yapılabilecek İyileştirmeler/
-│   └── [Notebook dosyaları geliştirilme aşamasında]
-├── 7.Sohbet Botu İçin Arayüz Geliştirme/
-│   └── [Notebook dosyaları geliştirilme aşamasında]
-├── 8.Eğitim Sonu-Kapanış/
-│   └── [Notebook dosyaları geliştirilme aşamasında]
+│   └── 5_Erişim_Destekli_Metin_Üretimi_Nasıl_Çalışır.ipynb
+├── 6.Vektör Veritabanını Oluşturmak ve Metin Erişimi/
+│   └── 6_Vektör_Veritabanını_Oluşturmak_Metin_Erişimi.ipynb
+├── 7.Bağlam ve Cevap Oluşturma/
+│   └── 7_Bağlam_ve_Cevap_Oluşturma.ipynb
+├── 8.Sohbet Botunun Geliştirilmesi/
+│   └── 8_Sohbet_Botunun_Geliştirilmesi.ipynb
+├── 9.Eğitim Sonu-Kapanış/
+│   └── 9.1_Eğitim Sonu-Kapanış.pptx
 ├── Bilgilendirme_Sunumu.pptx
-├── Index_v3_1.xlsx
+├── Eğitim_İçeriği_v4.xlsx
 ├── LICENSE
-└── README.md
+├── README.md
+├── Örnek Bilgi Tabanı/
+│   ├── CiftAnadalProgramiYonergesi.pdf
+│   ├── DersMuafiyetiveIntibakIslemleriYonergesi.pdf
+│   ├── DersSinavEvraklarininMuhafazasiYonergesi.pdf
+│   ├── LisansEğitimÖğretimYönetmeliği.pdf
+│   └── LisansOgrencileriIcinBursYonergesi.pdf
 ```
 
 ## 🚀 Başlangıç
@@ -158,53 +181,43 @@ Bu eğitimi tamamladıktan sonra:
 - **Modern sohbet botları** geliştirebileceksiniz
 - **Kullanıcı dostu arayüzler** tasarlayabileceksiniz
 - **Vektör veritabanları** ile çalışabileceksiniz
-- **Gemini API**'yi kullanarak yapay zeka uygulamaları geliştirebileceksiniz
+- Tanıtım ve Bilgilendirme
 
-## 👨‍🏫 Eğitmen Hakkında
+### 2. Kurulum ve Çalışma Ortamı
+- Google Colab Çalışma Ortamı
+- Menü Seçenekleri ve Örnek Kullanım
 
-**Murat Karakaya** - Yapay zeka ve makine öğrenmesi konularında uzman eğitmen. RAG teknolojileri ve büyük dil modelleri konularında deneyimli. BTK Akademi için çeşitli yapay zeka eğitimleri vermektedir.
+### 3. Büyük Dil Modellerine Erişim
+- Büyük Dil Modellerine Erişim Yöntemleri
+- Gemini API Anahtarı Alımı ve Kullanımı
+- API Kullanımı ve Maliyet Yönetimi
+- Performans İzleme ve Hata Ayıklama
 
-## 📄 Lisans
+### 4. Sistem Yönlendirmesi ile Sohbet Botu Geliştirme
+- Sistem Yönlendirmesi ile Sohbet Botu Geliştirme
+- Uygulama Örnekleri
+- Avantaj ve Dezavantajları
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+### 5. Erişim Destekli Metin Üretimi (RAG) Nasıl Çalışır
+- RAG Teknolojisi ve Ana Bileşenler
+- Uygulama Örnekleri
+- Avantaj ve Dezavantajları
 
-## 🤝 Katkıda Bulunma
+### 6. Vektör Veritabanını Oluşturmak ve Metin Erişimi
+- Yönlendirme ve Vektör Veritabanı İyileştirmeleri
 
-Bu eğitim materyaline katkıda bulunmak istiyorsanız:
+### 7. Sohbet Botu İçin Arayüz Geliştirme
+- Hızlı Arayüz Geliştirme Kütüphaneleri
+- Gradio ile Arayüz Geliştirme
 
-1. Bu repository'yi fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
+### 8. Sohbet Botunun Geliştirilmesi
+- RAG Tabanlı Sohbet Botu Geliştirme
+- Atölye Uygulamaları
 
-## 📞 İletişim ve Destek
+### 9. Eğitim Sonu-Kapanış
+- Eğitim Sonu Değerlendirme ve Kapanış
 
-- **GitHub Issues**: Teknik sorular ve öneriler için
-- **Discussions**: Genel tartışmalar için
-
-## ⚠️ Önemli Notlar
-
-- **Gemini API**: Ücretsiz kota limitleri bulunmaktadır, detaylar için [Google AI Studio](https://makersuite.google.com/) sayfasını ziyaret edin
-- **Google Colab**: Ücretsiz sürümde oturum süre limitleri vardır
-- **Eğitim Materyali**: Bu içerik BTK Akademi için hazırlanmış olup eğitim amaçlı kullanım içindir
-
----
-
-**© 2025 BTK Akademi | Eğitmen: Murat Karakaya**
-
-## 📁 Proje Yapısı
-
-```
-btk_rag_bot_egitimi/
-├── 1.Giriş Bölümü/
-│   ├── Egitim_Bilgi_Formu_v3.docx
-│   └── Murat_Karakaya_Eğitmen Bilgi Formu.docx
-├── 2.Kurulum ve Çalışma Ortamı/
-│   └── 2_1_Google_Colab_Çalışma_Ortamı.ipynb
-├── 3.Büyük Dil Modellerine Erişim/
-│   ├── 3.1_Büyük Dil Modellerine Erişim Yöntemleri.pptx
-│   └── 3_3_3_11_Gemini_Yazılım_Geliştirme_Kiti_(SDK).ipynb
+> Detaylı içerik ve ders listesi için [Eğitim_İçeriği_v4.xlsx](Eğitim_İçeriği_v4.xlsx) dosyasını inceleyebilirsiniz.
 ├── 4.Sistem Yönlendirmesi ile Sohbet Botu Geliştirme/
 │   └── sil.ipynb
 ├── 5.Erişim Destekli Metin Üretimi (RAG) ile Sohbet Botu Geliştirme/
