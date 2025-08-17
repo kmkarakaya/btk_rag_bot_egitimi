@@ -218,21 +218,7 @@ Bu eğitimi tamamladıktan sonra:
 - Eğitim Sonu Değerlendirme ve Kapanış
 
 > Detaylı içerik ve ders listesi için [Eğitim_İçeriği_v4.xlsx](Eğitim_İçeriği_v4.xlsx) dosyasını inceleyebilirsiniz.
-├── 4.Sistem Yönlendirmesi ile Sohbet Botu Geliştirme/
-│   └── sil.ipynb
-├── 5.Erişim Destekli Metin Üretimi (RAG) ile Sohbet Botu Geliştirme/
-│   └── sil.ipynb
-├── 6.Erişim Destekli Metin Üretiminde (RAG) Yapılabilecek İyileştirmeler/
-│   └── sil.ipynb
-├── 7.Sohbet Botu İçin Arayüz Geliştirme/
-│   └── sil.ipynb
-├── 8.Eğitim Sonu-Kapanış/
-│   └── sil.ipynb
-├── Bilgilendirme_Sunumu.pptx
-├── Index_v3_1.xlsx
-├── LICENSE
-└── README.md
-```
+
 
 ## 🚀 Başlangıç
 
